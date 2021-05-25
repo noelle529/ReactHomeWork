@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactHomeWork/static/css/main.11f8e4e7.chunk.css",
+    "main.js": "/ReactHomeWork/static/js/main.3950d0f5.chunk.js",
+    "main.js.map": "/ReactHomeWork/static/js/main.3950d0f5.chunk.js.map",
+    "runtime-main.js": "/ReactHomeWork/static/js/runtime-main.0953d3ce.js",
+    "runtime-main.js.map": "/ReactHomeWork/static/js/runtime-main.0953d3ce.js.map",
+    "static/js/2.c409b141.chunk.js": "/ReactHomeWork/static/js/2.c409b141.chunk.js",
+    "static/js/2.c409b141.chunk.js.map": "/ReactHomeWork/static/js/2.c409b141.chunk.js.map",
+    "static/js/3.52a96db3.chunk.js": "/ReactHomeWork/static/js/3.52a96db3.chunk.js",
+    "static/js/3.52a96db3.chunk.js.map": "/ReactHomeWork/static/js/3.52a96db3.chunk.js.map",
+    "index.html": "/ReactHomeWork/index.html",
+    "static/css/main.11f8e4e7.chunk.css.map": "/ReactHomeWork/static/css/main.11f8e4e7.chunk.css.map",
+    "static/js/2.c409b141.chunk.js.LICENSE.txt": "/ReactHomeWork/static/js/2.c409b141.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactHomeWork/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0953d3ce.js",
+    "static/js/2.c409b141.chunk.js",
+    "static/css/main.11f8e4e7.chunk.css",
+    "static/js/main.3950d0f5.chunk.js"
+  ]
+}
